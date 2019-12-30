@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Listado</string>
+
+    <string name="nombre">Nombre: %1$s</string>
+
+    <string name="matricula">Matricula: %1$s</string>
+</resources>
